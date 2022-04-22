@@ -16,6 +16,5 @@ assign out = upd_ff;
 //hello world
 // a= a+1
 // b= b0;
-// cc=cc
 
 endmodule
